@@ -1,5 +1,9 @@
 -- made by portal
 -- example at bottom
+-- dmt private library
+-- made by portal | not for public use
+-- made by portal
+-- example at bottom
 local Library = {};
 do
 	Library = {
